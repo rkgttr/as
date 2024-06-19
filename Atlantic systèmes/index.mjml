@@ -16,20 +16,21 @@
         font-weight: normal;
         font-style: normal;
       }      
-      @media only screen and (max-width:480px) {         
-      	.hidden-mob {
-      		display: none!important;
-      	}
-
-      }      
+        
       @media only screen and (min-width:480px) {         
-      	.hidden-desk {
-      		display: none!important;
-      	}
+      	
         .pad {
-      		padding-left: 60px!important;
-          padding-right: 60px!important;
+      		width:80%!important;
       	}
+        .pad2 {
+      		padding-left:100px!important;
+          padding-right:100px!important;
+      	}
+      .pad3 {
+      		padding-left:60px!important;
+          padding-right:60px!important;
+      	}
+        
       }      
     </mj-style>    
     <mj-attributes>
@@ -60,24 +61,24 @@
         <mj-image padding="0" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/hero.jpg" alt="Atlantic Systèmes vous invite sur le salon Interclima"/>
       </mj-column>
     </mj-section>
-    <mj-section padding-top="40px" padding-bottom="40px">
+    <mj-section padding-top="40px" padding-bottom="20px">
       <mj-column>
         <mj-image width="100px" padding="0" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/picto-agenda.png" alt="Icône Agenda"/>
-        <mj-text>
+        <mj-text padding-bottom="30px">
           <span style="text-decoration:underline;text-transform:uppercase">4 jours</span><br/>
 à bloquer dès à présent dans vos agendas<br/>
         </mj-text>
       </mj-column>
        <mj-column>
         <mj-image width="100px" padding="0" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/picto-planete.png" alt="Icône planète"/>
-        <mj-text>
+        <mj-text padding-bottom="30px">
           <span style="text-decoration:underline;text-transform:uppercase">4 jours</span><br/>
 décisifs pour transformer vos défis de transition énergétique
         </mj-text>
       </mj-column>
        <mj-column>
         <mj-image width="100px" padding="0" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/picto-signature.png" alt="Icône signature"/>
-        <mj-text>
+        <mj-text padding-bottom="30px">
           <span style="text-decoration:underline;text-transform:uppercase">4 jours</span><br/>
 pour formuler une réponse décisive sur vos projets
         </mj-text>
@@ -85,53 +86,53 @@ pour formuler une réponse décisive sur vos projets
     </mj-section>
     <mj-hero padding="30px 0" mode="fluid-height" background-width="600px" background-height="400px" background-position="bottom" background-url="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/pexels-cottonbro.jpg" background-color="#ffffff" padding="0px" vertical-align="middle">
       <mj-image align="center" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/agenda.png" width="375px" align="left" alt="30 septembre, 1er octobre, 2 octobre, 3 octobre" padding-bottom="40px"/>
-     <mj-text padding="0 60px" color="#FFF" font-weight="bold" font-size="22px" text-transform="uppercase" line-height="24px">4 jours pour échanger avec ceux qui connaissent le mieux vos enjeux tertiaires & collectifs.</mj-text>
-      <mj-text padding="10px 60px" color="#FFF"  line-height="17px">Face à la complexité croissante du marché tertiaire & collectif, nous retrouver sur Interclima 2024 c’est faire une halte stratégique incontournable pour aborder les mutations du marché, l’évolution des réglementations, les enjeux énergétiques des rénovations actuelles et des grands projets à venir !</mj-text>      
+     <mj-text css-class="pad2" padding="0 40px" color="#FFF" font-weight="bold" font-size="22px" text-transform="uppercase" line-height="24px">4 jours pour échanger avec ceux qui connaissent le mieux vos enjeux tertiaires & collectifs.</mj-text>
+      <mj-text  css-class="pad3" padding="10px 40px" color="#FFF"  line-height="17px">Face à la complexité croissante du marché tertiaire & collectif, nous retrouver sur Interclima 2024 c’est faire une halte stratégique incontournable pour aborder les mutations du marché, l’évolution des réglementations, les enjeux énergétiques des rénovations actuelles et des grands projets à venir !</mj-text>      
     </mj-hero>
-    <mj-section>
+    <mj-section padding="30px 0">
       <mj-column>
-        <mj-text padding="10px 60px">Relevez les défis énergétiques de votre projet avec Atlantic Systèmes en nous rencontrant sur Interclima 2024, du 30 septembre au 3 octobre prochains.</mj-text>
-        <mj-button padding="20px 30px" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK">Je télécharge mon invitation</mj-button>
+        <mj-text css-class="pad2" padding="10px 40px">Relevez les défis énergétiques de votre projet avec Atlantic Systèmes en nous rencontrant sur Interclima 2024, du 30 septembre au 3 octobre prochains.</mj-text>
+        <mj-button padding="10px 30px" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK">Je télécharge mon invitation</mj-button>
       </mj-column>
     </mj-section>
     <mj-section full-width padding="0" background-color="#5eccd9">
       <mj-column vertical-align="middle">
-        <mj-image padding="0" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/homme-batiment.jpg" alt="Homme devant un bâtiment"/>
+        <mj-image  fluid-on-mobile="true" padding="0" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/homme-batiment.jpg" alt="Homme devant un bâtiment"/>
       </mj-column>      	
       <mj-column vertical-align="middle">
-        <mj-text color="#FFF" text-transform="uppercase" font-weight="bold" font-size="22px" align="left" line-height="24px">Le programme de nos interventions :</mj-text>
+        <mj-text color="#FFF" text-transform="uppercase" font-weight="bold" font-size="22px" align="left" line-height="24px" padding-top="25px">Le programme de nos interventions :</mj-text>
         <mj-text color="#FFF" align="left">- Intervention Forum Interclima:  rénovation énergétique des logements le 01/10 à 15h20 et le 02/10  à 14h10</mj-text>
-        <mj-text color="#FFF" align="left">- Intervention Zone Solutions 
+        <mj-text color="#FFF" align="left" padding-bottom="25px">- Intervention Zone Solutions 
 Tertiaire : retour expérience tertiaire le 01/10 à 16h et le 02/10 à 16h</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding-bottom="0">
       <mj-column>
-        <mj-text text-transform="uppercase" font-weight="bold" font-size="22px" line-height="24px">Les informations clés :</mj-text>
+        <mj-text text-transform="uppercase" font-weight="bold" font-size="22px" line-height="24px" padding-top="50px">Les informations clés :</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-group>
+    <mj-section padding-bottom="0">
+      <mj-group css-class="pad">
       	<mj-column>
         	<mj-image width="70px" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/heure.png" alt="Horloge"/>
-        <mj-text>De 9h à 19h</mj-text>
+        <mj-text padding="0 10px">De 9h à 19h</mj-text>
       	</mj-column>
       	<mj-column>
         	<mj-image width="70px" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/stand.png" alt="Stand"/>
-        	<mj-text>Stand H3-M090<br/>(zone tertiaire)</mj-text>
+        	<mj-text padding="0 10px">Stand H3-M090<br/>(zone tertiaire)</mj-text>
       </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section padding-bottom="60px">
-      <mj-group>
+    <mj-section padding-bottom="60px" padding-top="0">
+      <mj-group css-class="pad">
       	<mj-column>
         	<mj-image width="70px" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/pin.png" alt="Carte"/>
-        <mj-text>Porte de Versailles :<br/>
-<span style="font-size:12px">1 place de la Porte de Versailles, 75015 Paris, Pavillon 3</span></mj-text>
+        <mj-text padding="0 10px">Porte de Versailles&nbsp;:<br/>
+<span style="font-size:12px">1 place de la Porte de Versailles,<br/>75015 Paris, Pavillon 3</span></mj-text>
       	</mj-column>
       	<mj-column>
         	<mj-image width="70px" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/mail.png" alt="Email"/>
-        	<mj-text>Votre contact salon :<br/> 
+        	<mj-text padding="0 10px">Votre contact salon&nbsp;:<br/> 
             <span style="font-size:12px"><a href="mailto:atlanticevenements@groupe-atlantic.com" style="color:#5eccd9;text-decoration:underline">atlanticevenements@groupe-atlantic.com</a></span></mj-text>
       </mj-column>
       </mj-group>
