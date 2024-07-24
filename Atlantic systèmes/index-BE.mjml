@@ -1,0 +1,162 @@
+<mjml>
+
+  <mj-head>
+		<mj-title>Atlantic Systèmes vous invite sur le salon Interclima</mj-title>
+    <mj-preview>Confort et efficacité énergétique</mj-preview>
+    <mj-style>
+      @font-face {
+        font-family: 'Gothic';
+        src: url('https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619CenturyGothic-Bold.woff') format('woff');
+        font-weight: bold;
+        font-style: normal;
+      }
+      @font-face {
+        font-family: 'Gothic';
+        src: url('https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619CenturyGothic.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+      }      
+        
+      @media only screen and (min-width:480px) {         
+      	
+        .pad {
+      		width:80%!important;
+      	}
+        .pad2 {
+      		padding-left:100px!important;
+          padding-right:100px!important;
+      	}
+      .pad3 {
+      		padding-left:60px!important;
+          padding-right:60px!important;
+      	}
+        
+      }      
+    </mj-style>    
+    <mj-attributes>
+      <mj-text align="center" color="#5eccd9" font-family="Gothic, sans-serif" font-size="15px" line-height="17px" />
+      <mj-section background-color="#fff"/>
+      <mj-button background-color="#5eccd9" border-radius="40px" font-weight="bold" text-transform="uppercase" font-size="17px" inner-padding="20px 30px"/>
+    </mj-attributes>
+    <mj-raw>
+      <meta name="color-scheme" content="light only">
+      <meta name="supported-color-schemes" content="light only">        
+    </mj-raw>
+
+  </mj-head>
+
+  <mj-body background-color="#fafafa">
+    <mj-section background-color="#fafafa">
+      <mj-column>
+        <mj-text font-size="11px" align="center"><a href="%%view_email_url%%" target="_blank" style="color:#7f7f7f;text-decoration:underline">Voir la version en ligne</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="230px" align="center" padding="30px 0 0" href="https://www.atlantic-pros.fr/" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619logo.png" alt="Atlantic Systèmes"/>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width>
+      <mj-column>
+        <mj-image padding="0" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/240619heroBE.jpg" alt="Atlantic Systèmes vous invite sur le salon Interclima"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="40px" padding-bottom="20px">
+      <mj-column>
+        <mj-image width="100px" padding="0" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619picto-agenda.png" alt="Icône Agenda"/>
+        <mj-text padding-bottom="30px">
+          <span style="text-decoration:underline;text-transform:uppercase">4 jours</span><br/>
+à bloquer dès à présent dans vos agendas<br/>
+        </mj-text>
+      </mj-column>
+       <mj-column>
+        <mj-image width="100px" padding="0" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619picto-planete.png" alt="Icône planète"/>
+        <mj-text padding-bottom="30px">
+          <span style="text-decoration:underline;text-transform:uppercase">4 jours</span><br/>
+décisifs pour transformer vos défis de transition énergétique
+        </mj-text>
+      </mj-column>
+       <mj-column>
+        <mj-image width="100px" padding="0" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619picto-signature.png" alt="Icône signature"/>
+        <mj-text padding-bottom="30px">
+          <span style="text-decoration:underline;text-transform:uppercase">4 jours</span><br/>
+pour formuler une réponse décisive sur vos projets
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-hero padding="30px 0" mode="fluid-height" background-width="600px" background-height="400px" background-position="bottom" background-url="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619pexels-cottonbro.jpg" background-color="#ffffff" padding="0px" vertical-align="middle">
+      <mj-image align="center" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619agenda.png" width="375px" align="left" alt="30 septembre, 1er octobre, 2 octobre, 3 octobre" padding-bottom="40px"/>
+     <mj-text css-class="pad2" padding="0 40px" color="#FFF" font-weight="bold" font-size="22px" text-transform="uppercase" line-height="24px">4 jours pour échanger avec ceux qui connaissent le mieux vos enjeux tertiaires & collectifs.</mj-text>
+      <mj-text  css-class="pad3" padding="10px 40px" color="#FFF"  line-height="17px">Bénéficiez de l’expertise technique complète d’Atlantic Systèmes&nbsp;! Anticipez les évolutions réglementaires, découvrez de nouvelles stratégies multi-énergies, comprenez tous les enjeux bas-carbone et financiers sur chaque marché et explorez des services sur-mesure avec l’offre facilitante d’Atlantic Systèmes.</mj-text>      
+    </mj-hero>
+    <mj-section padding="30px 0">
+      <mj-column>
+        <mj-text css-class="pad2" padding="10px 40px">Relevez les défis énergétiques de votre projet avec Atlantic&nbsp;Systèmes en nous rencontrant sur Interclima&nbsp;2024, du 30&nbsp;septembre au 3&nbsp;octobre&nbsp;prochains.</mj-text>
+        <mj-button padding="10px 30px" href="https://www.interclima.com/fr-fr/register.html?code=1069095116577437-QCK">Je télécharge mon invitation</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width padding="0" background-color="#5eccd9">
+      <mj-column vertical-align="middle">
+        <mj-image  fluid-on-mobile="true" padding="0" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619homme-batiment.jpg" alt="Homme devant un bâtiment"/>
+      </mj-column>      	
+      <mj-column vertical-align="middle">
+        <mj-text color="#FFF" text-transform="uppercase" font-weight="bold" font-size="22px" align="left" line-height="24px" padding-top="25px">Le programme de nos interventions&nbsp;:</mj-text>
+        <mj-text color="#FFF" align="left">- Intervention Forum Interclima&nbsp;:  rénovation énergétique des logements le 01/10 à 15h20 et le 02/10  à 14h10</mj-text>
+        <mj-text color="#FFF" align="left" padding-bottom="25px">- Intervention Zone Solutions 
+Tertiaire&nbsp;: retour expérience tertiaire le 01/10 à 16h et le 02/10 à 16h</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column>
+        <mj-text text-transform="uppercase" font-weight="bold" font-size="22px" line-height="24px" padding-top="50px">Les informations clés :</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-group css-class="pad">
+      	<mj-column>
+        	<mj-image width="70px" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619heure.png" alt="Horloge"/>
+        <mj-text padding="0 10px">De 9h à 19h</mj-text>
+      	</mj-column>
+      	<mj-column>
+        	<mj-image width="70px" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619stand.png" alt="Stand"/>
+        	<mj-text padding="0 10px">Stand H3&#8209;M090<br/>(zone tertiaire)</mj-text>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding-bottom="60px" padding-top="0">
+      <mj-group css-class="pad">
+      	<mj-column>
+        	<mj-image width="70px" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619pin.png" alt="Carte"/>
+        <mj-text padding="0 10px">Porte de Versailles&nbsp;:<br/>
+<span style="font-size:12px">1 place de la Porte de Versailles,<br/>75015 Paris, Pavillon 3</span></mj-text>
+      	</mj-column>
+      	<mj-column>
+        	<mj-image width="70px" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619mail.png" alt="Email"/>
+        	<mj-text padding="0 10px">Votre contact salon&nbsp;:<br/> 
+            <span style="font-size:12px"><a href="mailto:atlanticevenements@groupe-atlantic.com" style="color:#5eccd9;text-decoration:underline">atlanticevenements@groupe-atlantic.com</a></span></mj-text>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section full-width padding="0" background-color="#5eccd9">
+      <mj-column vertical-align="middle">
+        <mj-text color="#FFF" text-transform="uppercase" font-weight="bold" font-size="22px" align="left" line-height="24px" padding-top="25px">Retrouver sur notre stand H3&#8209;MO90 le SKID&#8209;IT&nbsp;Access.
+</mj-text>
+        <mj-text color="#FFF" align="left">Awards de l’innovation 2024 dans la catégorie Tertiaire/Génie climatique</mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-image  fluid-on-mobile="true" padding="0" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/20240724skid-it.jpg" alt="Skid-It access"/>
+      </mj-column>      	
+      
+    </mj-section>
+    <mj-section background-color="#fafafa">
+      <mj-column>
+        <mj-image width="230px" align="center" padding="30px 0 0" href="https://www.atlantic-pros.fr/" src="https://1zdwhzfx061pbd9q.public.blob.vercel-storage.com/as/240619logo.png" alt="Atlantic Systèmes"/>
+        <mj-text padding-top="30px" align="left"  font-size="11px" color="#7f7f7f">Conformément à la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et au Règlement européen relatif à la protection des données personnelles (RGPD) n°2016/679, vous disposez d'un droit d'accès, de rectification et d'opposition aux informations vous concernant.<br/>
+Pour plus d'information sur la protection de vos données personnelles et l'exercice de vos droits, veuillez consulter la <a href="https://www.atlantic-pros.fr/Mentions-legales-CGU/Politique-de-confidentialite" target="_blank" style="color:#7F7F7F;text-decoration:underline">politique de protection des données personnelles ici</a>.</mj-text>
+        <mj-text font-size="11px" align="left"><a href="%%=RedirectTo(CONCAT(CloudPagesURL(6453,'contact_id',@contactid)))=%%" target="_blank" style="color:#7f7f7f;text-decoration:underline">Pour vous désabonner, merci de cliquer ici</a></mj-text>
+      </mj-column>
+      
+    </mj-section>
+    <mj-raw><custom name="opencounter" type="tracking"/></mj-raw>
+  </mj-body>
+</mjml>
